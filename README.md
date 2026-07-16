@@ -12,7 +12,7 @@ It’s a beginner-friendly example to understand loops, conditionals, and basic 
 - Compares each number to track the maximum value.
 - Prints the largest number at the end.
 
----
+---EASY TO FIND
 
 ## 📜 Code Example
 ```python
@@ -24,3 +24,5 @@ for number in numbers:
         maximum = number
 
 print(maximum)
+
+
