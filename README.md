@@ -1,4 +1,4 @@
-# python-maximum-finder
+
 # Python Maximum Finder
 
 This repository contains a simple Python program that demonstrates how to find the maximum number in a list without using built-in functions like `max()`.  
