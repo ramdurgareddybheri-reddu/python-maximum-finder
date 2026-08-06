@@ -16,13 +16,6 @@ It’s a beginner-friendly example to understand loops, conditionals, and basic 
 
 ## 📜 Code Example
 ```python
-numbers = [1, 5, 2, 6, 7, 10]
-maximum = numbers[0]
 
-for number in numbers:
-    if number > maximum:
-        maximum = number
-
-print(maximum)
 
 
